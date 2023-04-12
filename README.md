@@ -14,3 +14,6 @@ It is a simple and user-friednly project.
 1. Add items to the list
 2. Mark out the completed tasks
 3. Delete items in the list
+
+## layout
+![Screenshot (407)](https://user-images.githubusercontent.com/101439718/231477747-4dc3d207-0992-4614-8ac9-da536f02c5c1.png)
